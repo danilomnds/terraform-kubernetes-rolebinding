@@ -1,0 +1,3 @@
+variable "subjects" {
+  type = any
+}
